@@ -1,7 +1,7 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220513123024/ExpressJS-vs-NestJS-5-Differences-That-You-Should-Know.gif)
-<h1 align="center">Hi 👋, I'm Hoang Cong Nhut Vy (ViWhy)</h1>
+<h1 align="center">Hi 👋, I'm Hoang Cong Nhut Vy</h1>
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="350" src="https://firebasestorage.googleapis.com/v0/b/nestjstest-9f759.appspot.com/o/Lucky.gif?alt=media&token=3661bb67-1ca2-439c-8c12-9854ef793b35">
+<!-- <img align="right" alt="Coding" width="350" src="https://firebasestorage.googleapis.com/v0/b/nestjstest-9f759.appspot.com/o/Lucky.gif?alt=media&token=3661bb67-1ca2-439c-8c12-9854ef793b35"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyhcn3012&label=Profile%20views&color=0e75b6&style=flat" alt="vyhcn3012" /> </p>
